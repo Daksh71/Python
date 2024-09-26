@@ -1,7 +1,7 @@
 
 print("Hello, world!")
 name = "rola oggy"
-email = "sendmenude@gmail.com"
+email = "xyjhsjkfkgmail.com"
 phn = 323231323
 print(name + "  " + email , phn ) #use comma when needed to print integer and use + to print string with others 
 print(f" my name is {name} and email is {email} and ph  number is {phn}")

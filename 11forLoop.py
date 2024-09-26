@@ -1,5 +1,5 @@
 # # for loop is used to iterate
 
-userName = "Saksham Gupta"
+userName = "Daksh Mittal"
 for x in userName:
     print(x)

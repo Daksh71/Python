@@ -1,8 +1,8 @@
 print("Hello World")
 
 salary = 2500
-name = "Saksham Gupta"
-email = "guptaasaksham795@gmail.com"
+name = "Daksh Mittal"
+email = "Dakshmitttal71@gmial.com"
 print(salary)
 print(name +" " +email,salary)
 
